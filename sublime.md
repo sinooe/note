@@ -36,6 +36,10 @@ import  urllib2,os;pf='Package Control.sublime-package';ipp=sublime.installed_pa
 * 生成本地html后预览，支持待办事项
 * 生成html文件：ctrl+B
 
+### [SmartMarkdown](https://github.com/demon386/SmartMarkdown)
+* 快捷键折叠文档
+* 对于标题：TAB，折叠/打开对应标题区域
+* 对于全局：SHIFT+TAB，整体折叠为一级标题
 ## 自定制代码片段(Code Snippets)
 
 
